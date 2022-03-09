@@ -16,8 +16,9 @@ _An Epicodus project making a console app to [do the app purpose]_
 
 ## Setup/Installation Requirements
 
-Install Microsoft .NET with C# on your local machine. On the following
-pages, select your version of Windows, macOS, or linux distribution.
+On the following pages, select your version of Windows, macOS, or
+linux distribution. Then follow the instructions on the selected page
+to install Microsoft .NET with C# on your local machine.
 
 Windows/MacOS: https://dotnet.microsoft.com/en-us/download/dotnet
 

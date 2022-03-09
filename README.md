@@ -17,11 +17,13 @@ _An Epicodus project making a console app to [do the app purpose]_
 ## Setup/Installation Requirements
 
 * Install Microsoft .NET with C# on your local machine. On the
-  following pages, secect your operating system or linux distribution.
+  following pages, select your version of Windows, macOS, or linux
+  distribution.
 * Windows/MacOS: https://dotnet.microsoft.com/en-us/download/dotnet
 * Linux: https://docs.microsoft.com/en-us/dotnet/core/install/linux
 * Clone this repository to your local machine
-* cd to the project root directory. cd to ```Project.Tests```
+* Per standard C# practice, rename the project folder to Project.Solution: ```$ mv project Project.Solution```
+* cd into the project and into the tests folder: ```$ cd Project.Solution/Project.Tests```
 * Install the project's dependencies: ```$ dotnet restore```
 * Run the tests: ```$ dotnet test```
 * To run the project, cd up and to the project folder: ```$ cd ../Project```
@@ -29,7 +31,7 @@ _An Epicodus project making a console app to [do the app purpose]_
 
 ## Known Bugs
 
-*_No known bugs_
+* _No known bugs_
 
 ## License
 

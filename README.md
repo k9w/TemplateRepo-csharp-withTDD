@@ -7,7 +7,7 @@
 ## Technologies Used
 
 * _C#_
-* _.NET_
+* _.NET_5 (not 6)
 * _MSTest_
 
 ## Description
@@ -21,20 +21,20 @@ _An Epicodus project making a console app to [do the app purpose]_
   distribution.
 * Windows/MacOS: https://dotnet.microsoft.com/en-us/download/dotnet
 * Linux: https://docs.microsoft.com/en-us/dotnet/core/install/linux
-* Clone this repository to your local machine
-```$ git clone https://github.com/k9w/<repo-name-here>```
+* Clone this repository to your local machine:
+* ```$ git clone https://github.com/k9w/<repo-name-here>```
 * Per standard C# practice, rename the project folder to Project.Solution: 
-```$ mv project Project.Solution```
+* ```$ mv project Project.Solution```
 * cd into the project and into the tests folder: 
-```$ cd Project.Solution/Project.Tests```
+* ```$ cd Project.Solution/Project.Tests```
 * Install the project's dependencies: 
-```$ dotnet restore```
+* ```$ dotnet restore```
 * Run the tests: 
-```$ dotnet test```
+* ```$ dotnet test```
 * To run the project, cd up and to the project folder: 
-```$ cd ../Project```
+* ```$ cd ../Project```
 * Run the program: 
-```$ dotnet run```
+* ```$ dotnet run```
 
 ## Known Bugs
 

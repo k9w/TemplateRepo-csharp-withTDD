@@ -18,7 +18,9 @@ _An Epicodus project making a console app to [do the app purpose]_
 
 Install Microsoft .NET with C# on your local machine. On the following
 pages, select your version of Windows, macOS, or linux distribution.
+
 Windows/MacOS: https://dotnet.microsoft.com/en-us/download/dotnet
+
 Linux: https://docs.microsoft.com/en-us/dotnet/core/install/linux
 
 Clone this repository to your local machine.
